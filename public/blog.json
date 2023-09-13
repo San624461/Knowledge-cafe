@@ -1,0 +1,53 @@
+[
+    {
+      "id": 54321,
+      "cover": "/images/cover1.jpg",
+      "title": "The Secrets of Time Travel",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/CVRVnVL/8975463.jpg",
+      "posted_date": "July 15, 2023",
+      "reading_time": 10,
+      "hashtags": ["TimeTravel", "Science", "Adventure"]
+    },
+    {
+      "id": 98765,
+      "cover": "/images/cover2.jpg",
+      "title": "Cooking Extravaganza: A Culinary Journey",
+      "author": "Chef Gourmet",
+      "author_img": "https://i.ibb.co/D9nY2yc/5164001.jpg",
+      "posted_date": "August 2, 2023",
+      "reading_time": 15,
+      "hashtags": ["Cooking", "Foodie", "Recipes"]
+    },
+    {
+      "id": 12345,
+      "cover": "/images/cover3.jpg",
+      "title": "Exploring the enchanted forest",
+      "author": "Alice Wonderland",
+      "author_img": "https://i.ibb.co/D9nY2yc/5164001.jpg",
+      "posted_date": "June 10, 2023",
+      "reading_time": 8,
+      "hashtags": ["Nature", "Adventure", "Travel"]
+    },
+    {
+      "id": 24680,
+      "cover": "/images/cover4.jpg",
+      "title": "Unraveling Ancient Mysteries",
+      "author": "Dr. Archaeologist",
+      "author_img": "https://i.ibb.co/CVRVnVL/8975463.jpg",
+      "posted_date": "May 27, 2023",
+      "reading_time": 12,
+      "hashtags": ["Archaeology", "History", "Artifacts"]
+    },
+    {
+      "id": 13579,
+      "cover": "/images/cover5.jpg",
+      "title": "Zen and the Art of Mindfulness",
+      "author": "Zen Master",
+      "author_img": "https://i.ibb.co/D9nY2yc/5164001.jpg",
+      "posted_date": "April 5, 2023",
+      "reading_time": 6,
+      "hashtags": ["Zen", "Mindfulness", "Wellness"]
+    }
+  ]
+  
